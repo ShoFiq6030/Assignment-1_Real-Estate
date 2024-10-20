@@ -1,5 +1,5 @@
 import team01 from "../assets/img/team/team-01.png";
-import FbSVG from "./SVGs/FbSVG";
+import FbSVG from "./SVGs/FBsvg";
 import IgSVG from "./SVGs/IgSVG";
 import TeamSVG from "./SVGs/TeamSVG";
 import TwitterSVG from "./SVGs/TwitterSVG";
