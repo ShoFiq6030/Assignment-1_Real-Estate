@@ -1,5 +1,5 @@
 import Button from "./Button";
-import CtaSVG from "./SVGs/ctaSVG";
+import CtaSVG from "./SVGs/CtaSVG";
 import CtaSVG2 from "./SVGs/CtaSVG2";
 const Cta = () => {
   return (
